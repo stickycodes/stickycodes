@@ -8,9 +8,9 @@
   
   <b>Projects Ive worked on</b>
   
-  -<p>www.tintintrendz.com.ng</p>
-  -<p>www.winnersfashion.com.ng</p>
-  -<p>www.salamahealthmins.org</p>
+     <p>www.tintintrendz.com.ng</p>
+     <p>www.winnersfashion.com.ng</p>
+     <p>www.salamahealthmins.org</p>
   
  
 <h2> 🤳 Connect with me:</h2>
