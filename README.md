@@ -10,6 +10,7 @@
     <h3> Top Project </h3>
     <p>https://www.coolkitsjerseys.com</p>
     <p>https://www.dicon.gov.ng</p>
+    <p>https://www.kontecdigitalsystems.com</p>
   <br>
     <h3>Other Projects</h3>
      <p>http://www.tintintrendz.com.ng</p>
