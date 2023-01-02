@@ -1,16 +1,21 @@
 
 <h1>Hi, I'm David! <br/><a href="https://github.com/stickycodes">Web Designer and App Developer</a>, 
-  <br>{Frontend and Backend}
+  <br>{Full Stack}
 
 <h2>👨‍💻 Website Development Projects:</h2>
   
 - <b>Full Stack Web Developer (Php, NodeJS and Html)</b>
   
   <b>Projects Ive worked on</b>
+    <h3> Top Project </h3>
+    <p>https://www.coolkitsjerseys.com</p>
+    <p>https://www.dicon.gov.ng</p>
+  <br>
+    <h3>Other Projects</h3>
+     <p>http://www.tintintrendz.com.ng</p>
+     <p>http://www.winnersfashion.com.ng</p>
+     <p>http://www.salamahealthmins.org</p>
   
-     <p>www.tintintrendz.com.ng</p>
-     <p>www.winnersfashion.com.ng</p>
-     <p>www.salamahealthmins.org</p>
   
  
 <h2> 🤳 Connect with me:</h2>
