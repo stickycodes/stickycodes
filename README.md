@@ -8,13 +8,12 @@
   
   <b>Projects Ive worked on</b>
     <h3> Top Project </h3>
-    <p>https://www.coolkitsjerseys.com</p>
+    <p>https://www.nmarvcosmetics.com</p>
     <p>https://www.dicon.gov.ng</p>
     <p>https://www.kontecdigitalsystems.com</p>
   <br>
     <h3>Other Projects</h3>
      <p>http://www.tintintrendz.com.ng</p>
-     <p>http://www.winnersfashion.com.ng</p>
      <p>http://www.salamahealthmins.org</p>
   
   
@@ -29,5 +28,5 @@
 [twitter]: https://twitter.com/davidimoru
 [facebook]: https://www.facebook.com/davidimoru
 [instagram]: https://www.instagram.com/davidimoru/
-[linkedin]: https://linkedin.com/davidimoru
+[linkedin]: https://www.linkedin.com/in/davidimoru
 
